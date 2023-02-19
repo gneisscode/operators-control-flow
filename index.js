@@ -8,7 +8,7 @@ let general = "English, Mathematics";
 let bolatito = "arts"
 
 function subjectFinder(name) {
-    if (name==="art_student"){
+    if (name==="arts"){
         console.log(arts)
     }
 
